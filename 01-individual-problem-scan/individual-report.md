@@ -1,12 +1,27 @@
 # 01 — Individual Problem Scan
 
+## Persona / Bối cảnh cá nhân
+
+**Họ và tên:** Hoàng Đức Anh  
+**Vai trò:** Fullstack Developer trong một nhóm dự án/học tập gồm 4 người.  
+
+**Bối cảnh công việc & Học tập hằng tuần:**
+- **Phát triển sản phẩm:** Đảm nhận phát triển cả Frontend & Backend cho dự án của nhóm 4 người.
+- **Họp nhóm & Phối hợp:** Tham gia các buổi họp sync team 4 người, phân chia task và thảo luận giải pháp kỹ thuật.
+- **Viết Meeting Notes:** Tổng hợp meeting notes sau mỗi buổi họp team hoặc seminar sao cho ngắn gọn, đầy đủ và dễ nhớ cho cả 4 thành viên.
+- **Bài tập cá nhân & Lab:** Đọc tài liệu lab/assignment dài (gồm 3-4 file hoặc hàng trăm trang) và hoàn thành đúng hạn.
+- **Báo cáo định kỳ:** Viết daily standup trước 10h sáng hàng ngày để giữ XP/tiến độ; làm báo cáo tiến độ tuần cho nhóm.
+- **Quản lý Deadline:** Phải theo dõi và rà soát deadline rải rác trên nhiều nền tảng như LMS, Google Calendar, Slack và Notion.
+
+---
+
 ## Scan rộng
 
-Tôi scan 10 problems, vượt mức tối thiểu 5.
+Đức Anh scan 10 problems từ trải nghiệm làm việc và học tập thực tế, vượt mức tối thiểu 5.
 
 | #  | Lăng kính          | Problem quan sát được                                                                                    | Ai chịu ảnh hưởng?         | Dấu hiệu thật                                                           |
 | -- | ------------------ | -------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------------- |
-| 1  | Lặp lại            | Mỗi sáng learner phải nhớ viết daily standup trước 10h để không bị mất XP                                | Learner                    | Lặp lại hàng ngày; dễ quên khi bận hoặc dậy muộn                        |
+| 1  | Lặp lại            | Mỗi sáng learner phải nhớ viết daily standup trước 10h để không bị mất XP                                | Learner, Developer         | Lặp lại hàng ngày; dễ quên khi bận hoặc dậy muộn                        |
 | 2  | Lặp lại            | Mỗi lần bắt đầu lab mới đều phải clone repo, cài dependency, tạo environment và cấu hình biến môi trường | Learner, Developer         | Tốn nhiều thời gian setup; thường phát sinh lỗi dependency hoặc version |
 | 3  | Lặp lại            | Hàng ngày phải kiểm tra deadline ở nhiều nơi như LMS, Calendar, Slack và Notion                          | Learner                    | Mất thời gian kiểm tra từng nền tảng; dễ bỏ sót deadline                |
 | 4  | Tốn thời gian      | Đọc mô tả lab và assignment dài, có thể gồm 3-4 file hoặc hàng trăm trang                                | Learner                    | Khoảng 15 phút/file nếu muốn đọc hiểu và ghi nhớ                        |
